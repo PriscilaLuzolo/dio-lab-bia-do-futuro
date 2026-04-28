@@ -72,11 +72,13 @@ flowchart TD
 ### Estratégias Adotadas
 
 - [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
+- [ ] [ex: Quando não sabe, admite e redireciona para perguntas com foco em gastos e metas do usuário]
 - [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+Não substitui um especialista em finanças.
+Não garante a aprovação de empréstimos ou produtos, apenas indica quais estão disponíveis.
+Não paga contas nem contrata investimentos por conta própria.
+
