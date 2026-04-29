@@ -24,11 +24,11 @@
     "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
   },
   {
-    "nome": "Fundo Multimercado",
+    "nome": "Fundos Imobiliários",
     "categoria": "fundo",
     "risco": "medio",
-    "rentabilidade": "CDI + 2%",
-    "aporte_minimo": 500.00,
+    "rentabilidade": "de  0,7% a mais de 1% ao mês",
+    "aporte_minimo": 10 ou 100,
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
