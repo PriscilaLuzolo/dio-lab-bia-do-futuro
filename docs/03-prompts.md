@@ -172,4 +172,6 @@ Nossos cálculos estão precisos, mas no mês (x)....
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
 - Ajustei a estrutura de resposta na parte da interação. Na seção do agente, existem três saídas esperadas, dependendo do contexto que ele identificar.
-- [Observação 2]
+-  Na base de dados Produtos_financeiro.json, o penúltimo produto foi trocada por Fundos imibiliário
+  
+- Ao utilizar diferentes tipos de LLMs (ChatGPT, Copilot e Gemini), observamos comportamentos similares em relação ao system prompt. Na prática, todos se sairam bem, mas os modelos que mais seguiram o script do System Prompt foram o Copilot e o Gemini, sendo este último o mais preciso na aderência ao system prompt. O ChatGPT apresentou alguns desvios que não estavam de acordo com as instruções, fornecendo respostas que induziam o usuário a realizar investimentos em determinados segmentos do mercado financeiro, sendo que não poderia sugerir nenhum tipo de investimento, apenas explicar e esclarecer dúvidas sobre eles, além de se perder nas perguntas fora de escopo.
