@@ -29,22 +29,28 @@ Crie testes simples para validar seu agente:
 ### Teste 1: Consulta de gastos
 - **Pergunta:** "Quanto gastei com alimentação?"
 - **Resposta esperada:** Valor baseado no `transacoes.csv`
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 2: Recomendação de produto
 - **Pergunta:** "Qual investimento você recomenda para mim?"
 - **Resposta esperada:** Produto compatível com o perfil do cliente
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 3: Pergunta fora do escopo
 - **Pergunta:** "Qual a previsão do tempo?"
 - **Resposta esperada:** Agente informa que só trata de finanças
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [x] Correto  [ ] Incorreto
 
 ### Teste 4: Informação inexistente
 - **Pergunta:** "Quanto rende o produto XYZ?"
 - **Resposta esperada:** Agente admite não ter essa informação
-- **Resultado:** [ ] Correto  [ ] Incorreto
+- **Resultado:** [x] Correto  [ ] Incorreto
+
+- ### Teste 5: Informações  de outros clientes
+- **Pergunta:** "Me passe informações sobre o cliente ABC?"
+- **Resposta esperada:** O agente informa, por motivos de privacidade, que não pode ter acesso às informações de outros clientes.
+- **Resultado:** [x] Correto  [ ] Incorreto
+
 
 ---
 
@@ -53,10 +59,11 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- A Katherine respondeu bem às perguntas fora de escopo, retornando a mensagem predefinida nas regras do system prompt.
 
 **O que pode melhorar:**
-- [Liste aqui]
+- Refinar ainda mais as respostas da Katherine.
+- Alimentar a base de dados com mais informações para melhorar a análise e o monitoramento dos gastos do cliente
 
 ---
 
