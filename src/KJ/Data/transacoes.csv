@@ -1,0 +1,41 @@
+data;descricao;categoria;valor;tipo
+01/10/2025;SalÃ¡rio;receita;5000.00;entrada
+02/10/2025;Aluguel;moradia;1200.00;saida
+03/10/2025;Supermercado;alimentacao;450.00;saida
+05/10/2025;Netflix;lazer;55.90;saida
+07/10/2025;FarmÃ¡cia;saude;89.00;saida
+10/10/2025;Restaurante;alimentacao;120.00;saida
+12/10/2025;Uber;transporte;45.00;saida
+15/10/2025;Conta de Luz;moradia;180.00;saida
+20/10/2025;Academia;saude;99.00;saida
+25/10/2025;CombustÃ­vel;transporte;250.00;saida
+01/11/2025;Salário;receita;5000.00;entrada
+02/11/2025;Aluguel;moradia;1200.00;saida
+02/11/2025;iFood - Burguer King;delivery;45.90;saida
+03/11/2025;Supermercado;alimentacao;450.00;saida
+04/11/2025;iFood - Japonês;delivery;89.90;saida
+05/11/2025;Uber Eats - Padaria;delivery;25.00;saida
+06/11/2025;Zattini - Tênis Novo;vestuario;189.90;saida
+07/11/2025;iFood - Marmita Fit;delivery;32.00;saida
+08/11/2025;Netflix;lazer;55.90;saida
+10/11/2025;iFood - McDonald's;delivery;54.00;saida
+11/11/2025;Renner - Calça Jeans;vestuario;119.90;saida
+12/11/2025;iFood - Sorvete;delivery;18.00;saida
+13/11/2025;99Food - Chinês;delivery;47.00;saida
+14/11/2025;iFood - Café da Manhã;delivery;28.90;saida
+15/11/2025;Conta de Luz;moradia;180.00;saida
+15/11/2025;H&M - Camisetas;vestuario;150.00;saida
+16/11/2025;iFood - Hot Dog;delivery;21.00;saida
+17/11/2025;Uber;transporte;35.00;saida
+18/11/2025;iFood - Poke Bowl;delivery;58.00;saida
+19/11/2025;iFood - Sobremesa;delivery;15.50;saida
+20/11/2025;CombustÃ­vel;transporte;250.00;saida
+20/11/2025;Shein - Acessórios;vestuario;85.00;saida
+20/11/2025;Academia;saude;99.00;saida
+21/11/2025;99Food - Pastelaria;delivery;33.00;saida
+22/11/2025;Freelance;receita;350.00;entrada
+23/11/2025;iFood - Sanduíche natural;delivery;24.00;saida
+24/11/2025;Nike - Meias e Short;vestuario;130.00;saida
+25/11/2025;99Food - Yakisoba;delivery;42.00;saida
+26/11/2025;iFood - Taco Bell;delivery;38.50;saida
+27/11/2025;iFood - Combo Sushi;delivery;110.00;saida
