@@ -6,17 +6,18 @@ Esta pasta contém o código do seu agente financeiro.
 
 ```
 src/
-├── app.py              # Aplicação principal (Streamlit/Gradio)
+├── app.py              # Aplicação principal (Streamlit)
 ├── agente.py           # Lógica do agente
-├── config.py           # Configurações (API keys, etc.)
-└── requirements.txt    # Dependências
+├── config.py           # Configurações (API keys do Groq)
+
 ```
 
 ## Exemplo de requirements.txt
 
 ```
 streamlit
-openai
+pandas
+groq
 python-dotenv
 ```
 
@@ -24,8 +25,8 @@ python-dotenv
 
 ```bash
 # Instalar dependências
-pip install -r requirements.txt
+pip install streamlit pandas groq
 
 # Rodar a aplicação
-streamlit run app.py
+python -m streamlit run src/app.py
 ```
